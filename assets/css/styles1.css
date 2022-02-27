@@ -1,0 +1,8 @@
+.btn-link {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: #069;
+  text-decoration: none!important;
+  cursor: pointer;
+}
